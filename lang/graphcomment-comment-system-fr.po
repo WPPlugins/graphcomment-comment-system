@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-16 16:04+0200\n"
+"PO-Revision-Date: 2017-04-19 15:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: fr_FR\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: class/controllers/gc_general_controller.class.php:21
+msgid "GraphComment Activated All"
+msgstr "GraphComment activé pour tout les articles."
+
+#: class/controllers/gc_general_controller.class.php:27
+msgid "GraphComment Activated From"
+msgstr "GraphComment est activé sur les posts créés après"
+
+#: class/controllers/gc_general_controller.class.php:33
+msgid "GraphComment Activated"
+msgstr "GraphComment activé."
+
+#: class/controllers/gc_general_controller.class.php:40
+msgid "GraphComment Deactivated"
+msgstr "GraphComment désactivé."
+
+#: class/controllers/gc_import_controller.class.php:55
+msgid "Import Cancel Success"
+msgstr "L'importation a été arrêté avec succès."
+
+#: class/controllers/gc_import_controller.class.php:77
+msgid "Import Restart Success"
+msgstr ""
+"L'importation a démarré avec succès. Vous allez bientôt pouvoir voir son "
+"avancée."
+
+#: class/controllers/gc_notif_controller.class.php:42
+msgid "Notification Deactivated"
+msgstr "Les notifications ont été désactivées avec succès."
+
+#: class/controllers/gc_notif_controller.class.php:81
+msgid "Notif Activated"
+msgstr "Les notifications sont maintenant activées."
+
+#: class/controllers/gc_select_website_controller.class.php:36
+msgid "GraphComment Website Selected"
+msgstr "Vous avez choisi le website"
+
+#: class/controllers/gc_synchronisation_controller.class.php:35
+msgid "Sync Deactivated"
+msgstr "La synchronisation est désactivée."
+
+#: class/controllers/gc_synchronisation_controller.class.php:96 
+#: class/controllers/gc_synchronisation_controller.class.php:107 
+#: class/controllers/gc_synchronisation_controller.class.php:119
+msgid "Unknown Error"
+msgstr "Ooops. Une erreur s'est produite. Veuillez réessayer ultérieurement."
+
+#: class/controllers/gc_synchronisation_controller.class.php:133
+msgid "Sync Activated"
+msgstr "La synchronisation est activée."
+
+#: class/services/gc_api_service.class.php:60 
+#: class/services/gc_import_service.class.php:111
+msgid "Import Already Pending"
+msgstr "Une importation est déjà en cours."
+
+#: class/services/gc_api_service.class.php:62
+msgid "Error Import Init"
+msgstr ""
+"Une erreur est survenue lors de l'initialisation de l'importation. Si "
+"l'erreur persist, contactez le support à  support@graphcomment.com."
+
+#: class/services/gc_api_service.class.php:99
+msgid "Error Import Stop"
+msgstr ""
+"Une erreur est survenue durant l'arrêt de l'importation. Si l'erreur "
+"persiste, concactez le support à  support@graphcomment.com."
+
+#: class/services/gc_api_service.class.php:139 
+#: class/services/gc_import_service.class.php:260 
+#: class/services/gc_import_service.class.php:285
+msgid "Error Import"
+msgstr ""
+"Une erreur est survenue durant l'importation. Si l'erreur persiste, "
+"concactez le support à  support@graphcomment.com."
+
+#: class/services/gc_api_service.class.php:213 
+#: class/services/gc_thread_pairing.php:11
+msgid "Error Getting Sync"
+msgstr ""
+"Une erreur est survenue lors de la tentative d'obtention des notifications."
+
+#: class/services/gc_import_service.class.php:117
+msgid "Error Import Init No Comments"
+msgstr "Vous n'avez pas de commentaires à importer."
+
+#: class/services/gc_import_service.class.php:151
+msgid "Error Import Restart"
+msgstr ""
+"Une erreur est survenue lors du redémarrage de l'importation. Veuillez "
+"réessayer.<br>Si l'erreur persiste, contactez le support "
+"à support@graphcomment.com."
+
+#: class/services/gc_import_service.class.php:163 
+#: class/services/gc_import_service.class.php:193
+msgid "No Import"
+msgstr "Pas d'importation en cours."
+
+#: class/services/gc_import_service.class.php:171
+msgid "Import Not Pending"
+msgstr "Aucune importation  en cours."
+
+#: class/services/gc_menu.class.php:57 class/services/gc_menu.class.php:69 
+#: class/services/gc_menu.class.php:70
+msgid "GC Plugin Admin Page Title"
+msgstr "Paramètres Plugin"
+
+#: class/services/gc_menu.class.php:57 class/services/gc_menu.class.php:69
+msgid "GC Plugin Admin Menu Title"
+msgstr "GraphComment"
+
+#: class/services/gc_menu.class.php:63 class/services/gc_menu.class.php:71 
+#: class/services/gc_menu.class.php:104
+msgid "GC Plugin Settings Page Title"
+msgstr "GC Paramètres Plugin"
+
+#: class/services/gc_menu.class.php:63 class/services/gc_menu.class.php:71 
+#: class/services/gc_menu.class.php:104
+msgid "GC Plugin Settings SubMenu Title"
+msgstr "Réglages plugin"
+
+#: class/services/gc_menu.class.php:70
+msgid "GC Plugin Admin SubMenu Title"
+msgstr "GC Admin"
+
+#: class/services/gc_menu.class.php:146 class/services/gc_menu.class.php:154 
+#: class/services/gc_menu.class.php:163
+msgid "Error Getting Notif"
+msgstr ""
+"Une erreur est survenue lors de la tentative d'obtention des notifications."
+
+#: class/services/gc_params_service.class.php:185
+msgid "Error while requesting the API to create the client"
+msgstr "Erreur d'authentification. Veuillez réessayer dans quelques instants."
+
+#: class/services/gc_params_service.class.php:272
+msgid "Error during connection"
+msgstr "Erreur d'authentification. Veuillez réessayer dans quelques instants."
+
+#: class/services/gc_params_service.class.php:336
+msgid "Error while requesting the Websites in the API"
+msgstr "Une erreur est survenue. Veuillez recharger votre page."
+
+#: class/services/gc_params_service.class.php:405
+msgid "Wrong website"
+msgstr "Mauvais Website !"
+
+#: class/templates/hello_login.template.php:10
+msgid "Hello Message"
+msgstr "Bonjour"
+
+#: class/templates/hello_login.template.php:13
+msgid "Not You Message"
+msgstr "Ce n'est pas vous ?"
+
+#: class/templates/hello_login.template.php:14
+msgid "Change Profile Message"
+msgstr "Changez de profile en cliquant ici !"
+
+#: class/templates/settings_page_admin.template.php:52 options.php:253
+msgid "API Down Msg"
+msgstr ""
+"Le service GraphComment est actuellement indisponnible. Nous mettons tout en "
+"oeuvre en ce moment-même afin de résoudre le problème dans les plus brefs "
+"délais. Vous pouvez toujours nous joindre sur contact@graphcomment.com"
+
+#: class/templates/settings_page_admin.template.php:63
+msgid "Close Notification Text"
+msgstr "Supprimer cette notification"
+
+#: class/templates/settings_page_admin.template.php:64
+msgid "Go To Graphcomment Admin Website"
+msgstr "Se rendre sur l'Admin de GraphComment"
+
+#: class/templates/settings_page_admin.template.php:65
+msgid "you_have"
+msgstr "Vous avez"
+
+#: class/templates/settings_page_admin.template.php:65
+msgid "new_comments"
+msgstr "nouveau(x) commentaire(s)"
+
+#: class/templates/settings_page_select_website.template.php:28
+msgid "Change Website Message"
+msgstr "Changez-le !"
+
+#: class/templates/settings_page_select_website.template.php:33
+msgid "Choose Website Message"
+msgstr "Sélectionnez votre site"
+
+#: class/templates/settings_page_select_website.template.php:53
+msgid "Website Not Found Label"
+msgstr "Je ne vois pas mon site"
+
+#: class/templates/settings_page_select_website.template.php:53
+msgid "Create A New One"
+msgstr "créez-en un nouveau"
+
+#: class/templates/settings_page_select_website.template.php:55
+msgid "Select Website Button Text"
+msgstr "Sélectionner le Website"
+
+#: comments.php:13
+msgid "Error"
+msgstr "Erreur"
+
+#: comments.php:14
+msgid "GraphComment couldn't be load because your settings are invalid."
+msgstr ""
+"GraphComment ne peut pas être chargé car vos paramètres sont invalides."
+
+#: comments.php:14
+msgid ""
+"Please visit your admin panel and go to the GraphComment section and enter a "
+"valid website URL/ID."
+msgstr ""
+"Veuillez vous rendre dans votre interface administrateur, dans la section "
+"GraphComment et entrez un identifiant valide."
+
+#: options.php:117 options.php:170 options.php:186 options.php:192
+msgid "Error Intern MySql"
+msgstr "Erreur MySql, veuillez vérifier les accès à votre base de données."
+
+#: options.php:313
+msgid "General Tab"
+msgstr "Général"
+
+#: options.php:321
+msgid "Synchronization Tab"
+msgstr "Synchronisation"
+
+#: options.php:330
+msgid "Importation Tab"
+msgstr "Importation"
+
+#: options.php:341
+msgid "Notification Tab"
+msgstr "Notifications"
+
+#: options.php:358
+msgid "Website Id"
+msgstr "Identifiant du site"
+
+#: options.php:360
+msgid "Not Right Website Id"
+msgstr "Pas le bon identifiant ?"
+
+#: options.php:360
+msgid "Change Website Button Label"
+msgstr "Changez-le !"
+
+#: options.php:366
+msgid "Activation"
+msgstr "Activation"
+
+#: options.php:370
+msgid "Activate Graphcomment"
+msgstr "Activer GraphComment"
+
+#: options.php:378
+msgid "Activate Graphcomment on all posts"
+msgstr "Activer GraphComment sur tous les articles"
+
+#: options.php:383
+msgid "Activate Graphcomment on posts from"
+msgstr "Activer GraphComment sur tous les articles depuis le"
+
+#: options.php:391
+msgid "Options"
+msgstr "Options"
+
+#: options.php:395
+msgid "Activate SEO (Replace by wordpress comment system when SE bot)"
+msgstr ""
+"SEO Friendly : Cette option remplace GraphComment par les commentaires HTML "
+"WordPress. <br />\n"
+"Synchronisez ensuite les commentaires vers votre base de donnée WordPress "
+"pour qu’ils soient référencés."
+
+#: options.php:443
+msgid "Synchro Pannel Heading"
+msgstr "Synchroniser GraphComment avec WordPress"
+
+#: options.php:443
+msgid "Activated Label"
+msgstr "Activé"
+
+#: options.php:443
+msgid "Not Activated Label"
+msgstr "Pas encore activé"
+
+#: options.php:447
+msgid "Synchronization Description"
+msgstr ""
+"Cette fonctionnalité vous permet de synchroniser les commentaires "
+"GraphComment avec votre base de données WordPress."
+
+#: options.php:458
+msgid "No Sync Yet"
+msgstr "Pas encore synchronisé."
+
+#: options.php:460
+msgid "Last Sync"
+msgstr "Dernière synchronisation :"
+
+#: options.php:470
+msgid "sync_comments"
+msgstr "Synchroniser les commentaires avec WordPress"
+
+#: options.php:519
+msgid "Import Pannel Heading"
+msgstr "Importer vos commentaires dans GraphComment"
+
+#: options.php:524
+msgid "Importation Description"
+msgstr ""
+"Cela importera tout vos commentaire existant sur votre site WordPress dans "
+"GraphComment.\n"
+"NB : Si un utilisateur a renseigné son email lors de la rédaction du "
+"commentaire avec WordPress, nous attachons automatiquement cet email au "
+"commentaire. Quand cet utilisateur voudra créer un compte sur GraphComment "
+"avec cet email, il n'aura plus qu'à enregistrer un nouveau mot de passe et "
+"il possèdera alors tout ses nouveaux commentaires."
+
+#: options.php:552
+msgid "import_status_label"
+msgstr "Import status"
+
+#: options.php:555
+msgid "Status Pending Label"
+msgstr "EN COURS"
+
+#: options.php:567 options.php:596 options.php:613
+msgid "Import Started On Label"
+msgstr "Importation <ins>démarrée</ins> le"
+
+#: options.php:569 options.php:615
+msgid "Import Finished On Label"
+msgstr "Importation <ins>terminée</ins> le"
+
+#: options.php:574 options.php:600
+msgid "Restart Import Button"
+msgstr "Redémarrer l'importation"
+
+#: options.php:578
+msgid "Cancel Import Button"
+msgstr "Arrêter l'importation"
+
+#: options.php:582
+msgid "Status Error Label"
+msgstr "ERREUR"
+
+#: options.php:603
+msgid "Status Finished Label"
+msgstr "TERMINÉ"
+
+#: options.php:620
+msgid "Status No Import Label"
+msgstr "PAS D'IMPORT EN COURS"
+
+#: options.php:622
+msgid "Start Import Button"
+msgstr "Lancer l'importation"
+
+#: options.php:644
+msgid "Notification Description"
+msgstr ""
+"Activez les notifications pour être informé(e) dès qu'un nouveau commentaire "
+"est posté sur votre site."
+
+#: options.php:649
+msgid "No Notif Configured Yet"
+msgstr "Les notifications ne sont pas encore activées."
+
+#: options.php:651
+msgid "Notif Configured"
+msgstr "Les notifications sont activées."
+
+#: options.php:667
+msgid "Dont Receive Notifications"
+msgstr "Ne plus recevoir les notifications"
+
+#: options.php:670
+msgid "Receive Notifications"
+msgstr "Activer les notifications"
+
+#: options.php:684
+msgid "Debug Mode Label"
+msgstr "Mode debug"
+
+msgid "Activate Label"
+msgstr "Activer logs"
+
+msgid "Deactivate Label"
+msgstr "Désactiver logs"
